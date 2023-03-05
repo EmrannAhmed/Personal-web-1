@@ -39,6 +39,9 @@ a {
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
+.bg-image{ 
+  width: 100%;
+}
 
 a:hover {
   color: #0078ff;
